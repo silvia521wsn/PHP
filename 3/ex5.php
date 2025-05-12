@@ -1,5 +1,5 @@
 <?php
-    $name = "諸岡先生";
-    echo <<<EOD
-        $name"、こんにちは!"
-        EOD;
+$name = "諸岡";
+echo <<<EOD
+{$name}、こんにちは!
+EOD;
