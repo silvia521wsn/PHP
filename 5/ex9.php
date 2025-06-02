@@ -8,4 +8,3 @@ if($language === 1) {
 } else{
     echo "Bon jour";
 }
-?>
